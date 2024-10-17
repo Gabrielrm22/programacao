@@ -15,3 +15,13 @@ footer p {
     font-size: 0.6rem;
     margin-top: o,5rem;
 }
+
+body {
+  background-color: bisque;
+  font-family: bai jamjuree;
+}
+
+#container {
+  display: flex;
+}
+
