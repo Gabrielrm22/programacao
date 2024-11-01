@@ -1,5 +1,6 @@
 body {
-    background-color:pink;
+    background: url('img/bg-desktop.webp');
+    front-family: Bai jamjuree;
 }
 footer{
     background-color:black;
